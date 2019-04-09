@@ -8,7 +8,7 @@ public class TestSorting {
 		boolean isPrime=true;
 		Scanner scan= new Scanner(System.in);
 		System.out.println("Enter any number:");
-		system.out.println("change")
+		system.out.println("change");
 		
 		int num=scan.nextInt();
 	        scan.close();
